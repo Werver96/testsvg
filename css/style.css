@@ -1,0 +1,17 @@
+#svg_8:hover{
+fill: red;
+}
+#svg_9:hover, #svg_10:hover, #svg_11:hover{
+fill: black;
+height: 197px;
+y: 75.3311;
+}
+#svg_21:hover,#svg_22:hover, #svg_23:hover, #svg_24:hover, #svg_25:hover, #svg_26:hover, #svg_27:hover, #svg_28:hover, #svg_30:hover, #svg_31:hover, #svg_32:hover, #svg_33:hover, #svg_34:hover, #svg_35:hover, #svg_36:hover, #svg_37:hover, #svg_38:hover{
+fill: white;
+height: 40px;
+width: 50px;
+stroke: red;
+}
+#svg_29:hover{
+fill: brown;
+}
